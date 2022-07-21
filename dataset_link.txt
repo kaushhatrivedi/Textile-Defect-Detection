@@ -1,0 +1,3 @@
+Project name:type of Textile Defect Detection
+
+Link:https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection
