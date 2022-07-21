@@ -24,7 +24,7 @@ Method used:<br />
 
 <h2>Dataset:</h2>
 
-dataset link:Link:https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection
+dataset Link:https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection
 
 Dataset file to load images:
 test32.h5
